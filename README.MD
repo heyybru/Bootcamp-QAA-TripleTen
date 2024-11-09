@@ -75,6 +75,3 @@ A área de QA está em constante evolução, e algumas melhorias que planejo imp
 </div>
 
 ###
-# Bootcamp-QAA-TripleTen
-# Bootcamp-QAA-TripleTen
-# Bootcamp-QAA-TripleTen
