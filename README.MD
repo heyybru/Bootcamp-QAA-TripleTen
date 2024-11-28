@@ -45,7 +45,7 @@ TripleTen's QA Bootcamp was an intensive three-month program focused on training
 - Test documentation: Use of Swagger and ApiDoc to keep documentation organized.
 - QA Tools: Practical use of essential tools such as JIRA and DevTools.
 
-### Results
+### Outcomes
 At the end of the course, I was able to apply QA practices autonomously in projects of realistic complexity, acquiring the confidence to work in professional environments. I completed all the projects, which were assessed according to industry standards, ensuring the applicability of the knowledge acquired.
 
 ### Future improvements
