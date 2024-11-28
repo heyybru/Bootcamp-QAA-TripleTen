@@ -1,69 +1,69 @@
-# Bootcamp Analista de QA
+# QA Engineer Bootcamp
 
 <img src="images/tripleten-logo3.jpeg">
 
-## Descrição do Curso
-O Bootcamp de QA da TripleTen foi um programa intensivo de três meses focado em capacitar profissionais nas práticas essenciais de Quality Assurance (QA). O curso foi projetado para fornecer uma compreensão completa do Ciclo de Desenvolvimento de Software (SDLC) e aplicá-lo em cenários práticos e desafiadores.
+## Course description
+TripleTen's QA Bootcamp was an intensive three-month program focused on training professionals in the essential practices of Quality Assurance (QA). The course was designed to provide a thorough understanding of the Software Development Life Cycle (SDLC) and apply it to practical and challenging scenarios.
 
-**Os conteudos foram separados em cincos sprints com projetos entregáveis ao fim de cada uma. É possivel verificar o escopo do curso por sprints no documento course-scope e o periodo de duração de cada uma no documento course-timeline.**
+**The content was separated into five sprints with deliverable projects at the end of each one. You can check the scope of the course by sprints in the course-scope document and the duration of each one in the course-timeline document.**
 
-## Objetivos
-- Aprender e aplicar conceitos fundamentais de QA.
-- Desenvolver habilidades práticas por meio de projetos que simulam situações reais do mercado.
-- Aprofundar o conhecimento em design de testes, relatórios de bugs e testes de front-end e back-end.
-- Utilizar bancos de dados/SQL e trabalhar com arquiteturas de software REST/JSON.
-- Concluir cinco projetos aplicando as melhores práticas de QA para consolidar o aprendizado.
+## Targets
+- Learn and apply fundamental QA concepts.
+- Develop practical skills through projects that simulate real market situations.
+- Deepen knowledge of test design, bug reporting and front-end and back-end testing.
+- Use databases/SQL and work with REST/JSON software architectures.
+- Complete five projects applying the best QA practices to consolidate learning.
 
-## Ferramentas Utilizadas
-- Postman: Para realizar testes manuais de API.
-- DevTools: Para inspeção e testes de elementos de página.
-- JIRA: Para gerenciamento de projetos e relatórios de bugs.
-- Visual Studio Code: Como ambiente de desenvolvimento para design de cenários em BDD.
-- PostgreSQL: Para testes e consultas em banco de dados.
-- Swagger/ApiDoc: Para documentação e análise de APIs.
-- Figma e Draw.io: Para design de fluxos de teste e diagramas.
+## Tools and Technologies Used
+- Postman: For performing manual API tests.
+- DevTools: For inspecting and testing page elements.
+- JIRA: For project management and bug reports.
+- Visual Studio Code: As a development environment for designing BDD scenarios.
+- PostgreSQL: For database testing and queries.
+- Swagger/ApiDoc: For documentation and analysis of APIs.
+- Figma and Draw.io: For designing test flows and diagrams.
 
-## Metodologia
-#### Estrutura do Curso
-- O Bootcamp foi dividido em sessões teóricas e práticas, com foco em aprendizado por projetos. Cada módulo abordou uma etapa específica de QA, culminando em um projeto prático que replicava as demandas do mercado.
+## Methodology
+#### Course structure
+- The Bootcamp was divided into theoretical and practical sessions, with a focus on project-based learning. Each module covered a specific QA stage, culminating in a practical project that replicated market demands.
 
-#### Projetos
-- Projeto 1: Testes de regressão em interfaces web e relatório de bugs.
-- Projeto 2: Analise e decomposição de requisitos, Identificação de classes de equivalencia e valores limite e Escrita de casos de teste.
-- Projeto 3: Seleção de configuração para testagem entre navegadores, Compilação de checkilists para abordar testes, realização de testes independentes e relatório de bugs.
-- Projeto 4: Testes de APIs RESTful com Postman.
-- Projeto 5: Simulação completa de testes em um ambiente de produção, combinando front-end, back-end e banco de dados.
+#### Projects
+- Project 1: Regression testing of web interfaces and bug reports.
+- Project 2: Analyzing and decomposing requirements, identifying equivalence classes and limit values and writing test cases.
+- Project 3: Selection of configuration for cross-browser testing, Compilation of checklists to address testing, Conducting independent tests and bug reporting.
+- Project 4: Testing RESTful APIs with Postman.
+- Project 5: Complete test simulation in a production environment, combining front-end, back-end and database.
 
-**Obs:** O repertório detalhado dos projetos pode ser visualizado nos repositórios projeto-urban.grocers, projeto-urban.routes e projeto-urban.scooter.
+**Note:** The detailed repertoire of projects can be viewed in the repositories project-urban.grocers, project-urban.routes and project-urban.scooter.
 
-### Aprendizados e Competências Adquiridas
-- Design de Testes: Criação de cenários de teste eficazes e detalhados.
-- Testes de API: Uso de Postman para validação de endpoints.
-- Relatórios de Bugs: Documentação precisa e completa de falhas de software.
-- Análise de Banco de Dados: Consultas em SQL para validar e investigar dados.
-- Trabalho com Arquiteturas REST/JSON: Compreensão e teste de sistemas baseados nessas tecnologias.
-- Documentação de Testes: Uso de Swagger e ApiDoc para manter a documentação organizada.
-- Ferramentas de QA: Utilização prática de ferramentas essenciais, como JIRA e DevTools.
+### Learnings and Skills Acquired
+- Test design: Creation of effective and detailed test scenarios.
+- API testing: Use of Postman for endpoint validation.
+- Bug reports: Accurate and complete documentation of software faults.
+- Database Analysis: SQL queries to validate and investigate data.
+- Working with REST/JSON Architectures: Understanding and testing systems based on these technologies.
+- Test documentation: Use of Swagger and ApiDoc to keep documentation organized.
+- QA Tools: Practical use of essential tools such as JIRA and DevTools.
 
-### Resultados
-Ao final do curso, fui capaz de aplicar práticas de QA de forma autônoma em projetos de complexidade realista, adquirindo confiança para atuar em ambientes profissionais. Completei todos os projetos, que foram avaliados de acordo com os padrões da indústria, garantindo a aplicabilidade dos conhecimentos adquiridos.
+### Results
+At the end of the course, I was able to apply QA practices autonomously in projects of realistic complexity, acquiring the confidence to work in professional environments. I completed all the projects, which were assessed according to industry standards, ensuring the applicability of the knowledge acquired.
 
-### Melhorias Futuras
-A área de QA está em constante evolução, e algumas melhorias que planejo implementar em futuros estudos incluem:
+### Future improvements
+The QA area is constantly evolving, and some improvements I plan to implement in future studies include:
 
-- Aprofundamento em testes automatizados com Cypress e Selenium.
-- Estudo de linguagens de programação, como JavaScript, para criar scripts de automação mais complexos.
-- Participação em projetos de código aberto para ampliar a experiência prática.
-- Escritas em BDD com sintaxe Gherkin para melhor organização dos testes.
+- Delving deeper into automated testing with Cypress and Selenium.
+- Studying programming languages, such as JavaScript, to create more complex automation scripts.
+- Participation in open source projects to broaden practical experience.
+- Writing in BDD with Gherkin syntax for better test organization.
 
-### Como Executar os Projetos
-- Clone o repositório: git clone <url-do-repositorio>
-- Navegue até o diretório do projeto: cd nome-do-projeto
-- Abra o projeto em um IDE: Utilize o Visual Studio Code ou outro de sua preferência.
-- Instale as dependências (caso aplicável).
-- Execute os testes e scripts conforme a documentação do projeto.
+### How to execute projects
+- Clone the repository: git clone <url-do-repositorio>
+- Navigate to the project directory: cd project-name
+- Open the project in an IDE: Use Visual Studio Code or another of your choice.
+- Install the dependencies (if applicable).
+- Run the tests and scripts according to the project documentation.
 
-### 📬 Contato
+### 📬 Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruno-souza-14b11916a/" target="_blank">
